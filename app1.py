@@ -1,4 +1,4 @@
-import matplotlib.pyplot 
+import matplotlib.pyplot as plt
 import pandas as pd
 import plotly.express as px
 import plotly.figure_factory as ff
